@@ -3,4 +3,4 @@ Here's me trying coding questions from different platforms .. mainly in C and py
 
 IF you liked my solution , do consider giving a 🌟
 
-happu coding. 🚀
+happy coding. 🚀
